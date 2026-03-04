@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8694514740:AAFr1tqdkko4x9QnaaOdwl7lJha1774W9GQ"
+TOKEN = "8694514740:AAGIetdnmFoUZlkId5ONHH5QJ91f5ZBjm-U"
 CHANNEL_ID = "samoletvpn1"
 
 bot = Bot(token=TOKEN)
@@ -63,6 +63,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-[Ссылка]
-Telegram – a new era of messaging
-http://t.me/
